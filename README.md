@@ -2,7 +2,7 @@
 
 <!-- This is a comment -->
 
-Welcome to the Free MLOps course run by DataTalksClub This program is designed to take you through the journey of mastering MLOps over several months. It consists of seven modules, each building upon the last, culminating in a capstone project.
+Welcome to the Free  [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp) course run by DataTalksClub This program is designed to take you through the journey of mastering MLOps over several months. It consists of seven modules, each building upon the last, culminating in a capstone project.
 
 ## Modules Overview
 
@@ -37,6 +37,6 @@ Explore the materials and assignments for the first week of the course. This inc
 
 ![Neptune MLOps](01_intro/imgs/mlops_architechture.webp "Source: towardsai.net")
 
-<p align="center">Source: towardsai.net</p>
+<p align="center">Source: towardsai.net, https://pub.towardsai.net/mlops-ruling-fundamentals-and-few-practical-use-cases-641f0a2f88c9</p>
 
  
