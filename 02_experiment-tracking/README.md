@@ -126,11 +126,11 @@ Use --default-artifact-root (defaults to local ./mlruns directory) to configure 
 
 ## Experiment tracking with MLflow
 
-![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/images/experiment.png)
+![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/homework/images/experiment.png)
 
-![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/images/experiment2.png)
+![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/homework/images/experiment2.png)
 
-![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/images/experiment3.png)
+![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/homework/images/experiment3.png)
 
 
 ##  Model management
