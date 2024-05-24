@@ -105,7 +105,7 @@ Launch mlflow ui as well. Run the following command to start mlflow ui (a gunico
 To access mlflow ui open `https://127.0.0.1:5000` in your browser.
 
 This is how it looks like.  
-![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/images/default.png)
+![](/02_experiment-tracking/images/default.png)
 
 
 ## Note for MLflow tracking:
@@ -126,11 +126,11 @@ Use --default-artifact-root (defaults to local ./mlruns directory) to configure 
 
 ## Experiment tracking with MLflow
 
-![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/homework/images/experiment.png)
+![](/02_experiment-tracking/images/experiment.png)
 
-![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/homework/images/experiment2.png)
+![](/02_experiment-tracking/images/experiment2.png)
 
-![](https://github.com/Kaustbh/Mlops-ZoomCamp/02_experiment-tracking/homework/images/experiment3.png)
+![](/02_experiment-tracking/images/experiment3.png)
 
 
 ##  Model management
@@ -143,7 +143,6 @@ Use --default-artifact-root (defaults to local ./mlruns directory) to configure 
 
 ## Model registry
 [Model Registry](https://mlflow.org/docs/latest/model-registry.html) is to manage life cycle of mlflow model for improving efficiency in developing:
-![model_registry.png](images%2Fmodel_registry.png)
 
 The concepts should be known:
 * Model - An mlflow model logged with one of the flavours `mlflow.<model_flavour>.log_model()`
